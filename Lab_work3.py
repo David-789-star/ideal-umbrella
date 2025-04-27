@@ -19,6 +19,8 @@ if operator == "+":
     print(sum_num)
     
 # 5.0 Gucci
+#Example:
+#if user enters:
 #first_num = 4
 #second_num = 5
 #operator = "+"
