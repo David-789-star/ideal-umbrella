@@ -13,13 +13,10 @@ last_name = input("Enter your Last Name: ")    # Taking user's last name
 # Printing the full name together
 print("Your name is:", first_name, last_name)
 
-This program asks the user to input two numbers, adds them, and prints the result
+#This program asks the user to input two numbers, adds them, and prints the result
 
-# taking the first number from the user and converting it to an integer
-num_one = int(input("Enter the first integer: "))
-
-# Taking the second number from the user and converting it to an integer
-num_two = int(input("Enter the second integer: "))
+num_one = 4
+num_two = 5
 
 # Adding the two numbers and storing the result in sum_num
 sum_num = num_one + num_two
