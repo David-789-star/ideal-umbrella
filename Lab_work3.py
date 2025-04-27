@@ -17,8 +17,9 @@ operator = input("Enter Operator: ")
 if operator == "+":
     sum_num = first_num + second_num
     print(sum_num)
-
-first_num = 4
-second_num = 5
-operator = +
-sum_num = 9.0
+    
+# 5.0 Gucci
+#first_num = 4
+#second_num = 5
+#operator = "+"
+#sum_num = 9.0
