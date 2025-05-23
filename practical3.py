@@ -1,8 +1,8 @@
-Fruit = ["apple", "Mango", "Banana"]
-print(Fruit)
+items = []
+print(items)
 
-fruit = input("enter another fruit different from the listed one:  ")
+item = input("enter an item to add to a list:  ")
 
-Fruit.append(fruit)
+items.append(item)
 
-print(f"The updated list : {Fruit}")
+print(f"The updated list : {item}")
