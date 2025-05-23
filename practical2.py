@@ -15,6 +15,6 @@ while guess_count < guess_limit:
 		break
 		
 	else:
-			print("Try again")
+	     print("Try again")
 else:
-	print("You have exhausted your trial limit, so you lose ")
+   print("You have exhausted your trial limit, so you lose ")
