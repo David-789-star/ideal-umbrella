@@ -1,3 +1,8 @@
+# Write a program to keep asking for a number until you enter a negative number. At the end, 
+# print the sum of all entered numbers.
+
+
+
 Total = 0
 
 while True:
