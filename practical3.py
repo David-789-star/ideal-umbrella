@@ -1,3 +1,5 @@
+The Exercises here would take you out of your comfort zone, make a research on how to add an item to your list.
+
 items = []
 print(items)
 
