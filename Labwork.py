@@ -1,9 +1,8 @@
-Your assignment based on the research
+# Your assignment based on the research
+# Write a 2 page with good relatable analogies on set, list, dictionary and tuple 
+# What are the methods doing.
 
 
-Write a 2 page with good relatable analogies on set, list, dictionary and tuple 
-
-What are the methods doing.
 
 ‎DataVille: A Tale of Sets, Lists, Dictionaries, and Tuples
 ‎Welcome to DataVille
